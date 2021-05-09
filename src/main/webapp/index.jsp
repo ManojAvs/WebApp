@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1>Welcome</h1>
-<body>
+<body bgcolor="grey">
 	<form id="myform" name="myform" method="post" action="./home.jsp">
 		<table>
 
@@ -17,7 +17,7 @@
 
 			<tr>
 				<td>Password:</td>
-				<td><input type="text" name="password" /></td>
+				<td><input type="password" name="password" /></td>
 			</tr>
 			<tr>
 				<td><input type="submit" value="submit" /></td>
